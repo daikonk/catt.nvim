@@ -1,1 +1,5 @@
-au BufRead,BufNewFile *.catt set filetype=custom-lang
+vim.filetype.add({
+    extension = {
+        catt = 'catt'
+    },
+})
