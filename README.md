@@ -1,6 +1,5 @@
 # README.md
 
-````markdown
 # catt.nvim
 
 A Neovim plugin for catt support providing syntax highlighting and auto-indentation.
@@ -27,7 +26,6 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
     ft = "catt",
 }
 ```
-````
 
 ## Configuration
 
