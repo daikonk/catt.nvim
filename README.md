@@ -1,5 +1,3 @@
-# README.md
-
 # catt.nvim
 
 A Neovim plugin for catt support providing syntax highlighting and auto-indentation.
