@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.cl set filetype=custom-lang
+au BufRead,BufNewFile *.catt set filetype=custom-lang
